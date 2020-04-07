@@ -1,0 +1,9 @@
+data
+venv
+backup
+output
+code/*.pyc
+code/miscc/*.pyc
+.DS_Store
+.idea/
+temp
